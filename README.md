@@ -1,5 +1,5 @@
 # Newsy-a-FullStack-App
-Newsy is a full-stack app built on React.js and Firebase 
+Newsy is a full-stack app built on React.js and Firebase. 
 Newsy is an app that works on web, iOS, Android, Mac, and Windows.
 
 The following tools/frameworks are used for this app:
